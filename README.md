@@ -21,7 +21,7 @@ How to Use
 
     bash
 
-    git clone https://github.com/yourusername/rain-alert-application.git
+    git clone https://github.com/yourusername/rain-alert-application.git](https://github.com/rohanindaragi/Rain-alert-application.git
 
     Install the required Python libraries.
 
